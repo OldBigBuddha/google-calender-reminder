@@ -30,3 +30,9 @@ $ clasp login
 本スクリプトを実行するには権限を手動で付与する必要があります。上記のプロパティを設定したら**必ず**一回は `main()` を手動で実行してください。
 
 Discord へ通知が送信されればOKです。
+
+## LICENSE
+
+[LICENSE](./LICENSE)
+
+Code owner: OldBigBuddha<contact(at)oldbigbuddha.net>
